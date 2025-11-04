@@ -1,4 +1,3 @@
-```markdown
 # PDF RAG System
 
 A Retrieval-Augmented Generation (RAG) system that allows you to query your PDF documents using local LLMs via Ollama.
